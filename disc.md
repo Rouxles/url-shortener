@@ -1,4 +1,4 @@
 ---
 title: Discussion Attendance
-redirect_to: https://forms.gle/srD7spXX3omBr9aDA
+redirect_to: https://forms.gle/G2nJGfcWyK6hUb7a8
 ---
