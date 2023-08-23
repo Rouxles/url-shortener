@@ -1,4 +1,4 @@
 ---
 title: Lab attendance
-redirect_to: https://forms.gle/oMEYpAZbmhRq2qrKA
+redirect_to: https://forms.gle/CX2BmeXUSeLsKYVh8
 ---
