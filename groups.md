@@ -1,4 +1,4 @@
 ---
 title: Cubing Competition Groups
-redirect_to: https://drive.google.com/drive/folders/1q55Ayke_z1n8y9GHrs13-Fll6vQRDq0A?usp=sharing
+redirect_to: https://docs.google.com/document/d/19aAbgLY6d925BNT8tt-gvOB1UbVbl0UkwMDG_WpmiPI/edit?usp=sharing
 ---
