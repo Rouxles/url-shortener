@@ -1,4 +1,4 @@
 ---
 title: Cubing Competition Announcements
-redirect_to: https://docs.google.com/document/d/13vi1kejxIXc9ZqWbzsRzJ7f1UjxVsRm1kkREu1-zVQk/edit?usp=sharing
+redirect_to: https://docs.google.com/document/d/1vjXvimR1OZUPwDz_WpNspw7wklWj3GqIUFST_jmyDAk/edit
 ---
