@@ -1,4 +1,4 @@
 ---
 title: Competition Schedule
-redirect_to: https://docs.google.com/spreadsheets/d/10-qV_foH7CAEbqc2iK6hsC2RipKLMB65rOetOtOaijs/edit#gid=0
+redirect_to: https://docs.google.com/spreadsheets/d/1u3TuwHCb62tdH7nQW0OazK74jS2j8HGijrcNHoMoBjQ/edit#gid=0
 ---
